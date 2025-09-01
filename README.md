@@ -3,7 +3,6 @@
 
 An AI-driven deep learning system to classify potato leaf diseases with high accuracy, supporting precision agriculture and early disease detection.
 
-🔗 Live Demo / Repo: GitHub
 
 **🚀 Tech Stack**
 
