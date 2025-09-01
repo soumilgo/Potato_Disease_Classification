@@ -21,7 +21,7 @@ Frontend: HTML, CSS, JavaScript
 ✅ 90%+ classification accuracy on potato leaf dataset
 ✅ CNNs optimized with transfer learning & augmentation
 ✅ REST API built with FastAPI for real-time predictions
-✅ Dockerized deployment with TensorFlow Serving
+✅ deployment with TensorFlow Serving
 ✅ Simple web interface for disease detection
 
 **⚡ Local Setup**
